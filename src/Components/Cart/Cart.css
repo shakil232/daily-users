@@ -1,0 +1,81 @@
+
+.review{
+    margin-left: 35px;
+    border-bottom: 1px solid tomato;
+}
+.head{
+    color: indianred;
+}
+.person-color{
+    color: red;
+    font-size: 30px;
+}
+.earn{
+    color: red;
+}
+.select-btn{
+    margin-left: 20px;
+    padding: 5px;
+    width: 220px;
+   background-color: orange;
+   border: 1px solid orange;
+   border-radius: 5px;
+   transition: 1s;
+   font-weight: 500;
+   cursor: pointer;
+}
+
+.select-btn:hover{
+    color:white;
+    font-weight: 500;
+    background-image: linear-gradient(to right, tomato, blue);
+}
+.sing-up{
+    border: 1px solid lightgray;
+    text-align: center;
+    margin-top: 140px;
+    margin-left: 20px;
+    box-shadow: 10px 10px 10px gray;
+    height: 180px;
+    background-color: lightsteelblue;
+    border-radius: 8px;
+    
+}
+.sing{
+    color: maroon;
+    font-size: 18px;
+    font-weight: 500;
+}
+.email{
+    padding: 5px;
+    margin: 5px auto;
+    font-size: 12px;
+    font-weight: 500;
+    border: none;
+    border-radius: 8px;
+}
+.pass{
+    padding: 5px;
+    margin: 5px auto;
+    font-size: 12px;
+    font-weight: 500;
+    border: none;
+    border-radius: 8px;
+}
+.submit{
+    width: 200px;
+    padding: 5px;
+    margin: 5px auto;
+    font-size: 15px;
+    font-weight: 500;
+    border: none;
+    border-radius: 8px;
+    background-color: blueviolet;
+   color:cornsilk;
+   transition: 1s;
+
+}
+.submit:hover{
+   background-color: green;
+   color: white;
+}

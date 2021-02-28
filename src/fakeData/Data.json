@@ -8,8 +8,8 @@
         "image": "https://i.ibb.co/HCgqBxk/profile4.png",
         "email": "dxshakil2@gamil.com",
         "age": 27,
-        "salary": 150,
-        "yearly-earn": 1500.33,
+        "salary": 350,
+        "yearlyEarn": 4000,
         "phone": "01718160232"
     },
     {
@@ -21,8 +21,8 @@
         "image": "https://i.ibb.co/zZB9kcD/abu.png",
         "email": "dxshakil2@gamil.com",
         "age": 26,
-        "salary": 340,
-        "yearly-earn": 2600.33,
+        "salary": 440,
+        "yearlyEarn": 5600,
         "phone": "01718160232"
     },
     {
@@ -35,7 +35,7 @@
         "email": "dxshakil2@gamil.com",
         "age": 29,
         "salary": 400,
-        "yearly-earn": 2650.90,
+        "yearlyEarn": 5000,
         "phone": "01718160232"
     },
     {
@@ -48,7 +48,7 @@
         "email": "dxshakil2@gamil.com",
         "age": 27,
         "salary": 430,
-        "yearly-earn": 3880.22,
+        "yearlyEarn": 5800,
         "phone": "01718160232"
     },
     {
@@ -60,8 +60,8 @@
         "image": "https://i.ibb.co/ykvj5TC/robiul.png",
         "email": "dxshakil2@gamil.com",
         "age": 28,
-        "salary": 320,
-        "yearly-earn": 4420.44,
+        "salary": 350,
+        "yearlyEarn": 4450,
         "phone": "01718160232"
     },
     {
@@ -74,7 +74,7 @@
         "email": "dxshakil2@gamil.com",
         "age": 25,
         "salary": 400,
-        "yearly-earn": 3800.70,
+        "yearlyEarn": 4800,
         "phone": "01718160232"
     },
     {
@@ -86,8 +86,8 @@
         "image": "https://i.ibb.co/7jyG5wy/mehdi.png",
         "email": "dxshakil2@gamil.com",
         "age": 25,
-        "salary": 140,
-        "yearly-icome": 3400.50,
+        "salary": 380,
+        "yearlyEarn": 5900,
         "phone": "01718160232"
     },
     {
@@ -99,8 +99,8 @@
         "image": "https://i.ibb.co/H77VSbQ/kana.png",
         "email": "dxshakil2@gamil.com",
         "age": 28,
-        "salary": 180,
-        "yearly-earn": 1750.55,
+        "salary": 490,
+        "yearlyEarn": 6000,
         "phone": "01718160232"
     },
     {
@@ -112,8 +112,8 @@
         "image": "https://i.ibb.co/T1xwVjb/mamun.png",
         "email": "dxshakil2@gamil.com",
         "age": 27,
-        "salary": 220,
-        "yearly-earn": 1800.99,
+        "salary": 370,
+        "yearlyEarn": 4900,
         "phone": "01718160232"
     },
     {
@@ -126,7 +126,7 @@
         "email": "dxshakil2@gamil.com",
         "age": 27,
         "salary": 350,
-        "yearly-earn": 2900.22,
+        "yearlyEarn": 4500,
         "phone": "01718160232"
     },
     {
@@ -138,8 +138,8 @@
         "image": "https://i.ibb.co/8c9GhYy/abdullah.png",
         "email": "dxshakil2@gamil.com",
         "age": 28,
-        "salary": 100,
-        "yearly-earn": 1520.89,
+        "salary": 500,
+        "yearlyEarn": 7000,
         "phone": "01718160232"
     },
     {
@@ -151,8 +151,8 @@
         "image": "https://i.ibb.co/q0Pcthy/rubel.png",
         "email": "dxshakil2@gamil.com",
         "age": 28,
-        "salary": 230,
-        "yearly-earn": 1950.60,
+        "salary": 430,
+        "yearlyEarn": 6000,
         "phone": "01718160232"
     },
     {
@@ -164,8 +164,8 @@
         "image": "https://i.ibb.co/mBkYcv9/jobaer.png",
         "email": "dxshakil2@gamil.com",
         "age": 28,
-        "salary": 190,
-        "yearly-earn": 1400.90,
+        "salary": 370,
+        "yearlyEarn": 3500,
         "phone": "01718160232"
     },
     {
@@ -177,8 +177,8 @@
         "image": "https://i.ibb.co/RyHwfKK/samin.png",
         "email": "dxshakil2@gamil.com",
         "age": 29,
-        "salary": 300,
-        "yearly-earn": 2500.99,
+        "salary": 350,
+        "yearlyEarn": 4500,
         "phone": "01718160232"
     },
     {
@@ -190,8 +190,8 @@
         "image": "https://i.ibb.co/kSdmvtj/prince.png",
         "email": "dxshakil2@gamil.com",
         "age": 28,
-        "salary": 150,
-        "yearly-earn": 2460.99,
+        "salary": 350,
+        "yearlyEarn": 5000,
         "phone": "01718160232"
     }
 ]

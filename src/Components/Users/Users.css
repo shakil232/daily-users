@@ -26,9 +26,18 @@
    border-radius: 5px;
    transition: 1s;
    font-weight: 500;
+   cursor: pointer;
 }
 .button:hover{
     color:white;
     font-weight: 500;
     background-image: linear-gradient(to right, tomato, blue);
+}
+
+.star{
+   
+    color: goldenrod;
+}
+.star-half{
+    color:goldenrod
 }
