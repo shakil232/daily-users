@@ -1,13 +1,14 @@
 
  .profile{
      width: 280px;
-     height: 350px;
+     height: 430px;
      box-shadow: 5px 5px 10px lightgrey;
      border-radius: 8px;
-     text-align: center;    
+     text-align: center;
+     text-align: justify;    
  }
 .profile img{
-    width: 50%;
+    width: 45%;
 }
 .name{
     color: Indigo;

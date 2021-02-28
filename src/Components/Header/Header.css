@@ -22,3 +22,11 @@ nav a:hover{
     background-color: lightgray;
     text-decoration: underline;
 }
+.logo{
+    margin-right: 300px;
+    font-size: 20px;
+   color: tomato;
+}
+.icon{
+    margin-left:50px ;
+}

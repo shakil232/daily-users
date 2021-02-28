@@ -1,29 +1,29 @@
 
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCartPlus} from '@fortawesome/free-solid-svg-icons';
+import { faCartPlus, faSearch } from '@fortawesome/free-solid-svg-icons';
 import './Header.css';
 
-const Header = () => {
-    
+const Header = (props) => {
+    console.log(props.head)
     return (
         <div className="container">
-         <nav>
-             <a href="">Daily-Users</a>
-             <a href="home">Home</a>
-             <a href="Review"> Selected Review </a>
-             <a href="manage"> Manage</a>
-              
-                  <input type="text" placeholder=""/>
-                  <button> Search</button>
-              
-             <FontAwesomeIcon  icon={faCartPlus}/> 
-             
-         </nav>
-         
+            <nav>
+                <a className="logo" href="">Developer-Hunt</a>
+                <a href="home">Home</a>
+                <a href="Review"> Selected Review </a>
+                <a href="manage"> Manage</a>
+               
+                <input className="search-inp" type="text" placeholder="" />  
+                    
+                     <FontAwesomeIcon className="icon" icon={faSearch} />
+                 
+                 <FontAwesomeIcon className="icon" icon={faCartPlus} />
+            </nav>
+
         </div>
- 
-        
+
+
     );
 };
 
