@@ -1,0 +1,15 @@
+
+.display-container{
+    display: flex; 
+}
+.users{
+    width: 75%;
+    display: grid;
+   grid-row-gap: 30px;
+    grid-template-columns: repeat(3,1fr);
+    margin-top: 20px;
+    margin-left: 70px;
+    margin-right: 5px;
+    border-right: 1px solid blue;
+ 
+}    
